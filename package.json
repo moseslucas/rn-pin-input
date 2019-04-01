@@ -1,0 +1,24 @@
+{
+  "name": "rn-pin-input",
+  "version": "1.0.0",
+  "description": "Pin input with Numeric keyboard interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "rn",
+    "react-native-pin-input",
+    "pin-input",
+    "react-native-pin",
+    "rn-pin-input",
+    "react-native-keyboard-pin"
+  ],
+  "author": "Moses Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "native-base": "^2.12.1",
+    "react-native-svg": "^9.3.7"
+  }
+}
