@@ -1,7 +1,5 @@
 /* eslint-disable import/no-unresolved */
 import { StyleSheet, Dimensions } from 'react-native';
-import R from 'res/R';
-
 const { height, width } = Dimensions.get('window');
 
 export default StyleSheet.create({
@@ -23,7 +21,6 @@ export default StyleSheet.create({
     alignItems: 'center',
   },
   numTxt: {
-    ...R.fonts.AirbnbCerealAppMedium,
     fontSize: 22
   },
   pinCodeEntry: {
